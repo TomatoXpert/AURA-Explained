@@ -11,7 +11,7 @@ We’re building a new standard in real-time AI rendering, and we’re glad you 
 
 ---
 
-## 📦 What You Can Contribute
+## What You Can Contribute
 
 We’re looking for help with:
 
@@ -25,7 +25,7 @@ We’re looking for help with:
 
 ---
 
-## 🧰 Getting Started
+## Getting Started
 
 1. **Fork** this repository:  
    ```bash
