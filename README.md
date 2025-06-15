@@ -1,20 +1,20 @@
-# AURA — Adaptive Understanding & Rendering AI
+# AURA®** — Adaptive Understanding & Rendering AI
 
-Welcome to **AURA**, the next evolution in real-time AI-powered rendering technology.
+Welcome to **AURA®**, the next evolution in real-time AI-powered rendering technology.
 
 ---
 
-## What is AURA?
+## What is AURA®?
 
-**AURA** (Adaptive Understanding & Rendering AI) is a revolutionary frame synthesis and upscaling system designed to deliver ultra-smooth, high-fidelity graphics at blistering frame rates.
+**AURA®** (Adaptive Understanding & Rendering AI) is a revolutionary frame synthesis and upscaling system designed to deliver ultra-smooth, high-fidelity graphics at blistering frame rates.
 
-Inspired by concepts like NVIDIA’s DLSS, **AURA goes far beyond** traditional super sampling or upscaling techniques by integrating advanced AI that *learns*, *remembers*, and *adapts* continuously — even during loading screens or menu navigation.
+Inspired by concepts like NVIDIA’s DLSS, **AURA® goes far beyond** traditional super sampling or upscaling techniques by integrating advanced AI that *learns*, *remembers*, and *adapts* continuously — even during loading screens or menu navigation.
 
 ---
 
 ## How AURA Works
 
-- **Continuous Learning:** Unlike prior methods, AURA constantly learns how objects, NPCs, and environments move and behave in your game — storing this knowledge to generate smoother frames.
+- **Continuous Learning:** Unlike prior methods, **AURA®** constantly learns how objects, NPCs, and environments move and behave in your game — storing this knowledge to generate smoother frames.
   
 - **Frame Prediction & Synthesis:** AURA predicts future frames based on learned motion patterns and creates intermediate “fake” frames, boosting frame rates by 60 FPS, 120 FPS, or even 165 FPS.
   
@@ -33,7 +33,7 @@ While **DLSS®** is a groundbreaking technology from **NVIDIA®**, **AURA is not
 - Full scene and object motion understanding
 - Prediction of frames *before* the player even looks at the action
 
-**AURA redefines what intelligent rendering can do.**
+**AURA® redefines what intelligent rendering can do.**
 
 ---
 
