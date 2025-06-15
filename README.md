@@ -1,4 +1,4 @@
-# AURA®** — Adaptive Understanding & Rendering AI
+# AURA® — Adaptive Understanding & Rendering AI
 
 Welcome to **AURA®**, the next evolution in real-time AI-powered rendering technology.
 
