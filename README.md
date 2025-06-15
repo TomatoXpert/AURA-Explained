@@ -8,7 +8,7 @@ Welcome to **AURA®**, the next evolution in real-time AI-powered rendering tech
 
 **AURA®** (Adaptive Understanding & Rendering AI) is a revolutionary frame synthesis and upscaling system designed to deliver ultra-smooth, high-fidelity graphics at blistering frame rates.
 
-Inspired by concepts like NVIDIA’s DLSS, **AURA® goes far beyond** traditional super sampling or upscaling techniques by integrating advanced AI that *learns*, *remembers*, and *adapts* continuously — even during loading screens or menu navigation.
+Inspired by concepts like **NVIDIA®**’s DLSS, **AURA® goes far beyond** traditional super sampling or upscaling techniques by integrating advanced AI that *learns*, *remembers*, and *adapts* continuously — even during loading screens or menu navigation.
 
 ---
 
