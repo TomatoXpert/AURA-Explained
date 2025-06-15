@@ -18,7 +18,7 @@ Inspired by concepts like **NVIDIA®**’s DLSS, **AURA® goes far beyond** trad
   
 - **Frame Prediction & Synthesis:** AURA predicts future frames based on learned motion patterns and creates intermediate “fake” frames, boosting frame rates by 60 FPS, 120 FPS, or even 165 FPS.
   
-- **Memory Persistence:** Even when you’re not actively playing (loading zones, menus, paused), AURA keeps learning in the background, improving predictions over time.
+- **Memory Persistence:** Even when you’re not actively playing (loading zones, menus, paused), **AURA®** keeps learning in the background, improving predictions over time.
   
 - **Reward-Driven AI:** AURA uses a unique reward system to self-correct — gaining rewards for accurate frame predictions and penalizing errors to refine its output.
 
@@ -26,7 +26,7 @@ Inspired by concepts like **NVIDIA®**’s DLSS, **AURA® goes far beyond** trad
 
 ## Why Not Just Use DLSS®?
 
-While **DLSS®** is a groundbreaking technology from **NVIDIA®**, **AURA is not a copy** — it’s a next-generation system that builds on the concept of AI upscaling by adding:
+While **DLSS®** is a groundbreaking technology from **NVIDIA®**, **AURA® is not a copy** — it’s a next-generation system that builds on the concept of AI upscaling by adding:
 
 - Persistent learning beyond single frames
 - A self-improving reward mechanism
