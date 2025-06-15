@@ -16,7 +16,7 @@ Inspired by concepts like NVIDIA’s DLSS, **AURA goes far beyond** traditional 
 
 - **Continuous Learning:** Unlike prior methods, AURA constantly learns how objects, NPCs, and environments move and behave in your game — storing this knowledge to generate smoother frames.
   
-- **Frame Prediction & Synthesis:** AURA predicts future frames based on learned motion patterns and creates intermediate “fake” frames, boosting frame rates by 60fps, 120fps, or even 165fps.
+- **Frame Prediction & Synthesis:** AURA predicts future frames based on learned motion patterns and creates intermediate “fake” frames, boosting frame rates by 60 FPS, 120 FPS, or even 165 FPS.
   
 - **Memory Persistence:** Even when you’re not actively playing (loading zones, menus, paused), AURA keeps learning in the background, improving predictions over time.
   
@@ -24,9 +24,9 @@ Inspired by concepts like NVIDIA’s DLSS, **AURA goes far beyond** traditional 
 
 ---
 
-## Why Not Just Use DLSS?
+## Why Not Just Use DLSS®?
 
-While DLSS is a groundbreaking technology, **AURA is not a copy** — it’s a next-generation system that builds on the concept of AI upscaling by adding:
+While **DLSS®** is a groundbreaking technology from **NVIDIA®**, **AURA is not a copy** — it’s a next-generation system that builds on the concept of AI upscaling by adding:
 
 - Persistent learning beyond single frames
 - A self-improving reward mechanism
@@ -58,23 +58,23 @@ While DLSS is a groundbreaking technology, **AURA is not a copy** — it’s a n
 
 ## License & Disclaimer
 
-AURA is an independent technology and is not affiliated with or endorsed by NVIDIA or any other company. It is an original system designed from the ground up.
+**AURA®** is an independent technology and is not affiliated with or endorsed by **NVIDIA®** or any other company. It is an original system designed from the ground up.
 
 ---
 
 ## Contribution & Feedback
 
-We welcome contributions, ideas, and feedback from developers and AI researchers who want to help push **AURA** forward.
+We welcome contributions, ideas, and feedback from developers and AI researchers who want to help push **AURA®** forward.
 
 ---
 
 ## Contact
 
-For inquiries, demos, or partnership opportunities, please reach out:  
-**contact@auratech.ai**
+For inquiries, demos, or partnership opportunities, please vist:  
+**[AURA Website]**
 
 ---
 
-**Join us in pioneering the future of real-time AI rendering with AURA.**
+**Join the AURA team, the future of real-time AI rendering.**
 
 
